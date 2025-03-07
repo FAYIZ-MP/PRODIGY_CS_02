@@ -50,7 +50,7 @@ The **Image Encryption Tool** is a powerful, user-friendly application designed 
 ## 👨‍💻 About the Developer
 Developed by **Fayiz M P**, a passionate **Cybersecurity Engineer & Developer** focused on creating secure and innovative applications.
 
-🔗 [LinkedIn]www.linkedin.com/in/fayiz-m-p-361228295 | [GitHub]https://github.com/your-username)](https://github.com/FAYIZ-MP
+🔗 [LinkedIn]www.linkedin.com/in/fayiz-m-p-361228295 | [GitHub]https://github.com/FAYIZ-MP
 
 🔐 **Secure Your Images Today!**
 
