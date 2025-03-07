@@ -37,7 +37,6 @@ The **Image Encryption Tool** is a powerful, user-friendly application designed 
 
 🔹 **Decryption Process**  
 ![Decryption](./path_to_decryption_screenshot.png)  
-(*Replace with actual image paths*)
 
 ---
 
