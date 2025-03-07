@@ -17,7 +17,7 @@ The **Image Encryption Tool** is a powerful, user-friendly application designed 
 ##  Get Started
 ### 1️⃣ Clone the Repository  
 ```sh
- git clone https://github.com/your-username/Image-Encryption-Tool.git
+ git clone [https://github.com/FAYIZ-MP/PRODIGY_CS_02.git]
  cd Image-Encryption-Tool
 ```
 ### 2️⃣ Install Dependencies  
