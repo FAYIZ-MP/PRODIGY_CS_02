@@ -1,6 +1,6 @@
 # 🛡️ Image Encryption Tool
 
-## 🔒 Secure & Protect Your Images
+## 🔒 Secure & Protect Your Images Using Pixel Manipulation
 The **Image Encryption Tool** is a powerful, user-friendly application designed to **encrypt and decrypt images** effortlessly. Built with **Python and Tkinter**, this tool ensures your sensitive images remain safe from unauthorized access.
 
 ---
